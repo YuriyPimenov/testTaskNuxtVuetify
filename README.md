@@ -1,6 +1,6 @@
 # testTask
 
-> Here is login form and Profile Page
+> Here are login form and Profile Page
 
 ## Build Setup
 
