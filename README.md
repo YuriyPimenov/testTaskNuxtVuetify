@@ -1,6 +1,6 @@
 # testTask
 
-> My remarkable Nuxt.js project
+> Here is login form and Profile Page
 
 ## Build Setup
 
@@ -20,4 +20,4 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
-# testTaskNuxtVuetify
+
